@@ -23,3 +23,6 @@ What do you call fake spaghetti? An impasta.
 
 ## Dad Jokes
 Why did the golfer bring two pairs of pants? In case he got a hole in one.
+
+## Dad Jokes
+Why did the tomato turn red? Because it saw the salad dressing.
