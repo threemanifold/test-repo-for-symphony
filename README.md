@@ -20,3 +20,6 @@ Why did the math book look sad? It had too many problems.
 
 ## Dad Jokes
 What do you call fake spaghetti? An impasta.
+
+## Dad Jokes
+Why did the golfer bring two pairs of pants? In case he got a hole in one.
