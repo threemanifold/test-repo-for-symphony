@@ -17,3 +17,6 @@ Why did the bicycle fall over? Because it was two-tired.
 
 ## Dad Jokes
 Why did the math book look sad? It had too many problems.
+
+## Dad Jokes
+What do you call fake spaghetti? An impasta.
