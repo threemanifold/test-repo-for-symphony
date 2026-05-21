@@ -11,3 +11,6 @@ I only know 25 letters of the alphabet. I don't know y.
 
 ## Dad Jokes
 Why did the math book look sad? It had too many problems.
+
+## Dad Jokes
+I used to hate facial hair, but then it grew on me.
