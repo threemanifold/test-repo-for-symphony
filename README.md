@@ -8,3 +8,12 @@ Why don't eggs tell jokes? They'd crack each other up.
 
 ## Dad Jokes
 I only know 25 letters of the alphabet. I don't know y.
+
+## Dad Jokes
+Why did the math book look sad? It had too many problems.
+
+## Dad Jokes
+I used to hate facial hair, but then it grew on me.
+
+## Dad Jokes
+Why did the bicycle fall over? It was two-tired.
